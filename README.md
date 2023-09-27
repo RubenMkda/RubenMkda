@@ -1,5 +1,3 @@
-# Developer Web
-
 <p align="center">
   <img width='200' src="./src/image0.png" />
   <h3 align="center">Hey 👋! I'm Ruben Moncada, Developer web 👨‍💻</h3>
