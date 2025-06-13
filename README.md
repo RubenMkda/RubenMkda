@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I have over X years of experience building scalable web solutions <br>
+✔ I have over 2+ years of experience building scalable web solutions <br>
 ✔ You can call me: He/Him or TeamWorker <br>
 ✔ Currently working at ValduSoft, using Laravel (PHP) and Vue.js <br>
 ✔ Currently learning AWS and Cloud Computing <br>
