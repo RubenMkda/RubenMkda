@@ -7,12 +7,9 @@
 ✔️ I have over 2+ years of experience building scalable web solutions 🧠💻 <br>
 ✔️ Currently working at ValduSoft, using Laravel (PHP) and Vue.js 🏢✨ <br>
 ✔️ Currently learning AWS and Cloud Computing ☁️📘 <br>
-✔️ Ask me anything — if I’m alive, I’ll answer within seconds 😉⚡ <br>
-✔️ I love TypeScript ❤️🟦 <br>
-✔️ I also work with Docker, Git, TailwindCSS, and Node.js 🐳🔧🌬️🟩 <br>
+✔️ I also work with Docker, Git, TailwindCSS, and Node.js,TypeScript 🐳🔧🌬️🟩 <br>
 ✔️ I value teamwork, feedback, and continuous improvement 🤝💬📈 <br>
 ✔️ I’m passionate about software architecture and design patterns 🏛️📐 <br>
-✔️ Open to collaborations, mentoring, or freelance opportunities — let’s connect! 🌍💼🤗 <br>
 ✔️ I’m always looking to grow as a developer and as a person 🚀🧩👣 <br> <br> <br>
 
 ## Tech Stacks
