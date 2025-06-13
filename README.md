@@ -2,7 +2,7 @@
 
 <img align="right" width=200px alt="side_sticker" src="https://i.pinimg.com/originals/45/47/64/454764dc1c3f772dd9957ff1b4d6893c.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="100px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="200px">&nbsp;***About me ....***
 
 ✔ I have over X years of experience building scalable web solutions <br>
 ✔ You can call me: He/Him or TeamWorker <br>
